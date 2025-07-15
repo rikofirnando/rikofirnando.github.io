@@ -1,0 +1,160 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "2.0.3"
+    },
+
+    "preloaderSettings": {
+        "enabled": true,
+        "title": "<strong>Riko Firnando</strong>",
+        "subtitle": "System Engineer",
+        "logoOffset": {
+            "right": 14,
+            "top": 2,
+            "bottom": 0
+        }
+    },
+
+    "templateSettings": {
+        "animatedCursorEnabled": true,
+        "backgroundStyle": "animated",
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true,
+        "showSpinnerOnThemeChange": false
+    },
+
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-us.png"
+        },
+        {
+            "name": "Español",
+            "id": "es",
+            "flagUrl": "images/flags/es.png"
+        },
+        {
+            "name": "Français",
+            "id": "fr",
+            "flagUrl": "images/flags/fr.png"
+        },
+        {
+            "name": "한국어",
+            "id": "ko",
+            "flagUrl": "images/flags/ko.png"
+        },
+        {
+            "name": "Indonesian",
+            "id": "id",
+            "flagUrl": "images/flags/id.png"
+        }, 
+        {
+            "name": "Português",
+            "id": "pt",
+            "flagUrl": "images/flags/pt.png"
+        },
+        {
+            "name": "Deutsch",
+            "id": "de",
+            "flagUrl": "images/flags/de.png"
+        },
+        {
+            "name": "日本語",
+            "id": "ja",
+            "flagUrl": "images/flags/ja.png"
+        }, 
+        {
+            "name": "Русский",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png"
+        },
+        {
+            "name": "里科·菲尔南多",
+            "id": "zh",
+            "flagUrl": "images/flags/zh.png"
+        }
+    ],
+
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Dark Mode"},
+                "es": {"name": "Modo Oscuro"},
+                "fr": {"name": "Mode Sombre"},
+                "ko": {"name": "다크 모드"},
+                "id": {"name": "Karanlık Mod"},
+                "pt": {"name": "Modo Escuro"},
+                "de": {"name": "Dunkelmodus"},
+                "ja": {"name": "ダークモード"},
+                "ru": {"name": "Темный режим"},
+                "it": {"name": "Modalità Scura"},
+                "tr": {"name": "Karanlık Mod"}
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-sun",
+            "dark": false,
+            "locales": {
+                "en": {"name": "Light Mode"},
+                "es": {"name": "Modo Claro"},
+                "fr": {"name": "Mode Clair"},
+                "ko": {"name": "라이트 모드"},
+                "id": {"name": "Mode Terang"},
+                "pt": {"name": "Modo Claro"},
+                "de": {"name": "Hellmodus"},
+                "ja": {"name": "ライトモード"},
+                "ru": {"name": "Светлый режим"},
+                "it": {"name": "Modalità Chiara"},
+                "tr": {"name": "Aydınlık Mod"}
+            }
+        }
+    ],
+
+    "consoleMessageForDevelopers": {
+        "title": "\uD83D\uDDA5️ Hey there, fellow developer!",
+        "items": [
+            {
+                "description": "This is an open-source template based on the React framework.",
+                "list": [],
+                "listStyle": "none"
+            },
+            {
+                "description": "Other frameworks and plugins used in the project include:",
+                "list": [
+                    "Bootstrap 5: https://getbootstrap.com/",
+                    "Smooth Scrollbar: https://tinyurl.com/4yhm4n4a",
+                    "Swiper: https://swiperjs.com/",
+                    "EmailJS: https://www.emailjs.com/",
+                    "Font Awesome: https://fontawesome.com/",
+                    "PrimeIcons: https://primefaces.org/"
+                ],
+                "listStyle": "bulleted"
+            },
+            {
+                "description": "Clone it and customize it for your own portfolio:",
+                "list": [
+                    "https://github.com/ryanbalieiro/react-portfolio-template"
+                ],
+                "listStyle": "none"
+            },
+            {
+                "description": "Developer Info:",
+                "list": [
+                    "GitHub: https://github.com/rikofirnando",
+                    "Website: https://ryanbalieiro.com"
+                ],
+                "listStyle": "bulleted"
+            }
+        ]
+    },
+
+    "imagesToCache": []
+}
